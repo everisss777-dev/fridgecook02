@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "korean_tofu_stirfry",
+    "title": "두부 야채 볶음",
+    "cuisine": "korean",
+    "tags": [
+      "quick",
+      "protein",
+      "pan"
+    ],
+    "benefits": [
+      "고단백",
+      "가벼운 한 끼"
+    ],
+    "ingredients": [
+      {
+        "name": "tofu",
+        "amount": "200g"
+      },
+      {
+        "name": "onion",
+        "amount": "1/2"
+      },
+      {
+        "name": "carrot",
+        "amount": "1/2"
+      },
+      {
+        "name": "soy sauce",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "두부와 채소를 한입 크기로 자른다",
+      "팬에 기름을 두르고 볶는다",
+      "간장으로 간을 맞춘다"
+    ]
+  },
+  {
+    "slug": "spinach_miso_soup",
+    "title": "시금치 미소국",
+    "cuisine": "japanese",
+    "tags": [
+      "soup",
+      "light"
+    ],
+    "benefits": [
+      "저지방",
+      "따뜻함"
+    ],
+    "ingredients": [
+      {
+        "name": "spinach",
+        "amount": "100g"
+      },
+      {
+        "name": "miso",
+        "amount": "1 tbsp"
+      },
+      {
+        "name": "tofu",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "물 끓이기",
+      "미소 풀고 재료 넣어 한소끔"
+    ]
+  },
+  {
+    "slug": "garlic_pasta",
+    "title": "갈릭 올리브 오일 파스타",
+    "cuisine": "global",
+    "tags": [
+      "noodles",
+      "comfort"
+    ],
+    "benefits": [
+      "든든함"
+    ],
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "amount": "120g"
+      },
+      {
+        "name": "garlic",
+        "amount": "4 cloves"
+      },
+      {
+        "name": "olive oil",
+        "amount": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "파스타 삶기",
+      "마늘과 오일에 볶아 비비기"
+    ]
+  },
+  {
+    "slug": "shrimp_fried_rice",
+    "title": "새우 볶음밥",
+    "cuisine": "global",
+    "tags": [
+      "rice",
+      "quick"
+    ],
+    "benefits": [
+      "탄단지 균형"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "amount": "1 bowl"
+      },
+      {
+        "name": "shrimp",
+        "amount": "100g"
+      },
+      {
+        "name": "egg",
+        "amount": "1"
+      },
+      {
+        "name": "green onion",
+        "amount": "some"
+      }
+    ],
+    "steps": [
+      "팬에 재료를 넣고 볶는다",
+      "밥 넣고 간 맞추기"
+    ]
+  }
+]

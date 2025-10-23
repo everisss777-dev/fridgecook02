@@ -1,0 +1,93 @@
+{
+  "tofu": {
+    "kcal": 144,
+    "protein": 16,
+    "fat": 8,
+    "carbs": 4,
+    "sodium": 14
+  },
+  "onion": {
+    "kcal": 40,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 9,
+    "sodium": 4
+  },
+  "carrot": {
+    "kcal": 41,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 10,
+    "sodium": 69
+  },
+  "soy sauce": {
+    "kcal": 10,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 1,
+    "sodium": 570
+  },
+  "spinach": {
+    "kcal": 23,
+    "protein": 3,
+    "fat": 0,
+    "carbs": 4,
+    "sodium": 79
+  },
+  "miso": {
+    "kcal": 56,
+    "protein": 2,
+    "fat": 2,
+    "carbs": 7,
+    "sodium": 630
+  },
+  "spaghetti": {
+    "kcal": 371,
+    "protein": 13,
+    "fat": 1,
+    "carbs": 75,
+    "sodium": 6
+  },
+  "garlic": {
+    "kcal": 149,
+    "protein": 6,
+    "fat": 0,
+    "carbs": 33,
+    "sodium": 17
+  },
+  "olive oil": {
+    "kcal": 884,
+    "protein": 0,
+    "fat": 100,
+    "carbs": 0,
+    "sodium": 2
+  },
+  "rice": {
+    "kcal": 130,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 28,
+    "sodium": 1
+  },
+  "shrimp": {
+    "kcal": 99,
+    "protein": 24,
+    "fat": 0,
+    "carbs": 0,
+    "sodium": 111
+  },
+  "egg": {
+    "kcal": 155,
+    "protein": 13,
+    "fat": 11,
+    "carbs": 1,
+    "sodium": 124
+  },
+  "green onion": {
+    "kcal": 32,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 7,
+    "sodium": 16
+  }
+}
